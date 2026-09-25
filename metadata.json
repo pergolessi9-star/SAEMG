@@ -1,0 +1,6 @@
+{
+  "name": "Auditor EU AI Act - Gemma 4",
+  "description": "Auditoría de código para cumplimiento del Reglamento Europeo de IA (EU AI Act) con análisis Gemma 4 y reporte estructurado en JSON.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
